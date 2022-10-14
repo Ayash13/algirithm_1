@@ -1,0 +1,15 @@
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/bin/Debug/net6.0/algirithm_1
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/bin/Debug/net6.0/algirithm_1.deps.json
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/bin/Debug/net6.0/algirithm_1.runtimeconfig.json
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/bin/Debug/net6.0/algirithm_1.dll
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/bin/Debug/net6.0/algirithm_1.pdb
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.csproj.AssemblyReference.cache
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.AssemblyInfoInputs.cache
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.AssemblyInfo.cs
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.csproj.CoreCompileInputs.cache
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.dll
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/refint/algirithm_1.dll
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.pdb
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/algirithm_1.genruntimeconfig.cache
+/Users/ayash/PAW C#/algirithm_1/algirithm_1/obj/Debug/net6.0/ref/algirithm_1.dll
